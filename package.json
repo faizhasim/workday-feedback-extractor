@@ -1,0 +1,10 @@
+{
+  "name": "workday-feedback-extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohd Faiz Hasim <faizhasim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "read-excel-file": "^5.5.3"
+  }
+}
